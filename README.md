@@ -7,4 +7,4 @@ The on device inference is handled by **CoreML**.
 
 ![image 1](img1.png)
 ![image 2](img2.png)
-![image 3](img4.PNG)
+![image 3](img3.png)
