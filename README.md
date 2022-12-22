@@ -1,4 +1,4 @@
-# Picture Identifier
+# Object Identifier
 This is a simple iOS application that uses Machine Learning to classify the dominant object in a camera frame or picture. 
 
 ## Part 1
