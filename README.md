@@ -6,4 +6,6 @@ The application asks the user to take a picture and uses Residual Neural Network
 The on device inference is handled by **CoreML**. 
 
 ![image 1](img1.png)
+![image 2](img1_2.png)
+![image 3](img3.png)
 
